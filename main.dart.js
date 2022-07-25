@@ -36994,7 +36994,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["waitingTime",a],t.N,t.X))
 o.toString
 s=2
@@ -37004,7 +37004,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$r3)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$r3)
 case 3:n=c
 q.e=A.aD(n.b.a4(0,"waitingTime"),n.a)
 q.a0()
@@ -37017,7 +37017,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["adSequence",q.d],t.N,t.X))
 o.toString
 s=2
@@ -37027,7 +37027,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$nt)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$nt)
 case 3:n=b
 q.d=A.aD(n.b.a4(0,"adSequence"),n.a)
 q.a0()
@@ -37055,7 +37055,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isAdLoaderEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37065,7 +37065,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qD)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qD)
 case 3:n=c
 q.c=A.aD(n.b.a4(0,"isAdLoaderEnabled"),n.a)
 q.a0()
@@ -37079,7 +37079,7 @@ j=$.b1()
 A.a5(i,j,!1)
 l=A.ax(new A.a9(i))
 s=3
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$pu)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$pu)
 case 3:n=b
 s=J.a_(n.b.d,"data")!=null?4:6
 break
@@ -37099,7 +37099,7 @@ i=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(i,j,!1)
 j=A.ax(new A.a9(i))
 s=7
-return A.r(A.ay(j,j.gaq().ao("StocksAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isAdLoadedEnabled",!1,"adSequence",[],"waitingTime",1],t.N,t.z)),$async$pu)
+return A.r(A.ay(j,j.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isAdLoadedEnabled",!1,"adSequence",[],"waitingTime",1],t.N,t.z)),$async$pu)
 case 7:q=!0
 s=1
 break
@@ -37113,7 +37113,7 @@ j=$.b1()
 A.a5(i,j,!1)
 l=A.ax(new A.a9(i))
 s=3
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$pw)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$pw)
 case 3:n=b
 s=J.a_(n.b.d,"data")!=null?4:6
 break
@@ -37133,7 +37133,7 @@ i=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(i,j,!1)
 j=A.ax(new A.a9(i))
 s=7
-return A.r(A.ay(j,j.gaq().ao("StocksAdmin")).ai(0,"AdManagement").nI(0,A.Y(["moreAppLinks",[],"moreAppImages",[],"moreAppEnabled",[]],t.N,t.z)),$async$pw)
+return A.r(A.ay(j,j.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").nI(0,A.Y(["moreAppLinks",[],"moreAppImages",[],"moreAppEnabled",[]],t.N,t.z)),$async$pw)
 case 7:q=!0
 s=1
 break
@@ -37202,7 +37202,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["moreAppLinks",q.f,"moreAppImages",q.r,"moreAppEnabled",q.w],t.N,t.X))
 o.toString
 s=2
@@ -37212,7 +37212,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$lv)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$lv)
 case 3:n=b
 m=n.b
 p=m.a4(0,"moreAppLinks")
@@ -37233,7 +37233,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["qurekaLink1",a],t.N,t.X))
 l.toString
 s=3
@@ -37243,7 +37243,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qY)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qY)
 case 4:k=c
 q=p.as=A.aD(k.b.a4(0,"qurekaLink1"),k.a)
 s=1
@@ -37260,7 +37260,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["qurekaLink2",a],t.N,t.X))
 l.toString
 s=3
@@ -37270,7 +37270,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qZ)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qZ)
 case 4:k=c
 q=p.at=A.aD(k.b.a4(0,"qurekaLink2"),k.a)
 s=1
@@ -37287,7 +37287,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["qurekaLink3",a],t.N,t.X))
 l.toString
 s=3
@@ -37297,7 +37297,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$r_)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$r_)
 case 4:k=c
 q=p.ax=A.aD(k.b.a4(0,"qurekaLink3"),k.a)
 s=1
@@ -37314,7 +37314,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["qurekaLink4",a],t.N,t.X))
 l.toString
 s=3
@@ -37324,7 +37324,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$r0)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$r0)
 case 4:k=c
 q=p.ay=A.aD(k.b.a4(0,"qurekaLink4"),k.a)
 s=1
@@ -37341,7 +37341,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["qurekaLink5",a],t.N,t.X))
 l.toString
 s=3
@@ -37351,7 +37351,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$r1)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$r1)
 case 4:k=c
 q=p.ch=A.aD(k.b.a4(0,"qurekaLink5"),k.a)
 s=1
@@ -37376,7 +37376,7 @@ n=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 o=$.b1()
 A.a5(n,o,!1)
 m=A.ax(new A.a9(n))
-m=A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+m=A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 l=A.bL(A.Y(["isCustomAdEnabled",a],t.N,t.X))
 l.toString
 s=3
@@ -37386,7 +37386,7 @@ n=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(n,o,!1)
 o=A.ax(new A.a9(n))
 s=4
-return A.r(A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qL)
+return A.r(A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qL)
 case 4:k=c
 p.x=A.aD(k.b.a4(0,"isCustomAdEnabled"),k.a)
 p.a0()
@@ -37403,7 +37403,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isAdButtonEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37413,7 +37413,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qC)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qC)
 case 3:n=c
 q.y=A.aD(n.b.a4(0,"isAdButtonEnabled"),n.a)
 q.a0()
@@ -37427,7 +37427,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["showPopup",a],t.N,t.X))
 o.toString
 s=2
@@ -37437,7 +37437,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qX)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qX)
 case 3:n=c
 q.z=A.aD(n.b.a4(0,"showPopup"),n.a)
 q.a0()
@@ -37451,7 +37451,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isDirectLink",a],t.N,t.X))
 o.toString
 s=2
@@ -37461,7 +37461,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$nw)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$nw)
 case 3:n=c
 q.Q=A.aD(n.b.a4(0,"isDirectLink"),n.a)
 q.a0()
@@ -37475,7 +37475,7 @@ j=$.b1()
 A.a5(i,j,!1)
 l=A.ax(new A.a9(i))
 s=3
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$px)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$px)
 case 3:n=b
 s=J.a_(n.b.d,"data")!=null?4:6
 break
@@ -37507,7 +37507,7 @@ i=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(i,j,!1)
 j=A.ax(new A.a9(i))
 s=7
-return A.r(A.ay(j,j.gaq().ao("StocksAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isCustomAdEnabled",!1,"qurekaLink1","","qurekaLink2","","qurekaLink3","","qurekaLink4","","qurekaLink5","","isAdButtonEnabled",!1,"showPopup",!1,"isDirectLink",!1],t.N,t.z)),$async$px)
+return A.r(A.ay(j,j.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isCustomAdEnabled",!1,"qurekaLink1","","qurekaLink2","","qurekaLink3","","qurekaLink4","","qurekaLink5","","isAdButtonEnabled",!1,"showPopup",!1,"isDirectLink",!1],t.N,t.z)),$async$px)
 case 7:q=!0
 s=1
 break
@@ -37521,7 +37521,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 p=A.ax(new A.a9(k))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isExtraScreenEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37531,7 +37531,7 @@ k=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=3
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qM)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qM)
 case 3:n=c
 l=A.aD(n.b.a4(0,"isExtraScreenEnabled"),n.a)
 q.CW=l
@@ -37551,7 +37551,7 @@ m=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 n=$.b1()
 A.a5(m,n,!1)
 l=A.ax(new A.a9(m))
-l=A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+l=A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 k=A.bL(A.Y(["allScreenStatus",o],t.N,t.X))
 k.toString
 s=3
@@ -37561,7 +37561,7 @@ m=(k==null?$.J=$.ah():k).aa(0,"[DEFAULT]")
 A.a5(m,n,!1)
 n=A.ax(new A.a9(m))
 s=4
-return A.r(A.ay(n,n.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$nu)
+return A.r(A.ay(n,n.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$nu)
 case 4:j=d
 for(n=j.b,l=j.a,i=0;i<J.bu(A.aD(n.a4(0,"allScreenStatus"),l));++i)o[i]=J.a_(A.aD(n.a4(0,"allScreenStatus"),l),i)
 p.a0()
@@ -37578,7 +37578,7 @@ j=$.b1()
 A.a5(i,j,!1)
 l=A.ax(new A.a9(i))
 s=3
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$py)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$py)
 case 3:n=b
 s=J.a_(n.b.d,"data")!=null?4:6
 break
@@ -37597,7 +37597,7 @@ i=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 A.a5(i,j,!1)
 j=A.ax(new A.a9(i))
 s=7
-return A.r(A.ay(j,j.gaq().ao("StocksAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isExtraScreenEnabled",!1,"allScreenStatus",A.b([!1,!0,!1],t.HZ)],t.N,t.z)),$async$py)
+return A.r(A.ay(j,j.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isExtraScreenEnabled",!1,"allScreenStatus",A.b([!1,!0,!1],t.HZ)],t.N,t.z)),$async$py)
 case 7:q=!0
 s=1
 break
@@ -37611,7 +37611,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["bannerAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -37621,7 +37621,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qI)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qI)
 case 4:m=c
 q=p.db=A.aD(m.b.a4(0,"bannerAdID1"),m.a)
 s=1
@@ -37636,7 +37636,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["interstitialAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -37646,7 +37646,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qQ)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qQ)
 case 4:m=c
 q=p.dx=A.aD(m.b.a4(0,"interstitialAdID1"),m.a)
 s=1
@@ -37661,7 +37661,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["nativeAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -37671,7 +37671,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qU)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qU)
 case 4:m=c
 q=p.dy=A.aD(m.b.a4(0,"nativeAdID1"),m.a)
 s=1
@@ -37686,7 +37686,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["appOpenAdID1",a],t.N,t.X))
 n.toString
 s=3
@@ -37696,7 +37696,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qE)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qE)
 case 4:m=c
 q=p.fr=A.aD(m.b.a4(0,"appOpenAdID1"),m.a)
 s=1
@@ -37711,7 +37711,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isGoogle1Enabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37721,7 +37721,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qN)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qN)
 case 3:n=c
 q.cy=A.aD(n.b.a4(0,"isGoogle1Enabled"),n.a)
 q.a0()
@@ -37735,7 +37735,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["bannerAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -37745,7 +37745,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qJ)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qJ)
 case 4:m=c
 q=p.fy=A.aD(m.b.a4(0,"bannerAdID2"),m.a)
 s=1
@@ -37760,7 +37760,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["interstitialAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -37770,7 +37770,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qR)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qR)
 case 4:m=c
 q=p.go=A.aD(m.b.a4(0,"interstitialAdID2"),m.a)
 s=1
@@ -37785,7 +37785,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["nativeAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -37795,7 +37795,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qV)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qV)
 case 4:m=c
 q=p.id=A.aD(m.b.a4(0,"nativeAdID2"),m.a)
 s=1
@@ -37810,7 +37810,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["appOpenAdID2",a],t.N,t.X))
 n.toString
 s=3
@@ -37820,7 +37820,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qF)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qF)
 case 4:m=c
 q=p.k1=A.aD(m.b.a4(0,"appOpenAdID2"),m.a)
 s=1
@@ -37835,7 +37835,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isGoogle2Enabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37845,7 +37845,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qO)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qO)
 case 3:n=c
 q.fx=A.aD(n.b.a4(0,"isGoogle2Enabled"),n.a)
 q.a0()
@@ -37859,7 +37859,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["facebookBanner",a],t.N,t.X))
 n.toString
 s=3
@@ -37869,7 +37869,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qK)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qK)
 case 4:m=c
 q=p.k3=A.aD(m.b.a4(0,"facebookBanner"),m.a)
 s=1
@@ -37884,7 +37884,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["facebookInterstitial",a],t.N,t.X))
 n.toString
 s=3
@@ -37894,7 +37894,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qS)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qS)
 case 4:m=c
 q=p.k4=A.aD(m.b.a4(0,"facebookInterstitial"),m.a)
 s=1
@@ -37909,7 +37909,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["facebookNative",a],t.N,t.X))
 n.toString
 s=3
@@ -37919,7 +37919,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qW)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qW)
 case 4:m=c
 q=p.ok=A.aD(m.b.a4(0,"facebookNative"),m.a)
 s=1
@@ -37934,7 +37934,7 @@ k=(l==null?$.J=$.ah():l).aa(0,"[DEFAULT]")
 l=$.b1()
 A.a5(k,l,!1)
 o=A.ax(new A.a9(k))
-o=A.ay(o,o.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+o=A.ay(o,o.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 n=A.bL(A.Y(["facebookAppOpen",a],t.N,t.X))
 n.toString
 s=3
@@ -37944,7 +37944,7 @@ k=(n==null?$.J=$.ah():n).aa(0,"[DEFAULT]")
 A.a5(k,l,!1)
 l=A.ax(new A.a9(k))
 s=4
-return A.r(A.ay(l,l.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qG)
+return A.r(A.ay(l,l.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qG)
 case 4:m=c
 q=p.p1=A.aD(m.b.a4(0,"facebookAppOpen"),m.a)
 s=1
@@ -37959,7 +37959,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isFacebookEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37969,7 +37969,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qP)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qP)
 case 3:n=c
 q.k2=A.aD(n.b.a4(0,"isFacebookEnabled"),n.a)
 q.a0()
@@ -37983,7 +37983,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isBackAdEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -37993,7 +37993,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$qH)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$qH)
 case 3:n=c
 q.p2=A.aD(n.b.a4(0,"isBackAdEnabled"),n.a)
 q.a0()
@@ -38007,7 +38007,7 @@ l=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 m=$.b1()
 A.a5(l,m,!1)
 p=A.ax(new A.a9(l))
-p=A.ay(p,p.gaq().ao("StocksAdmin")).ai(0,"AdManagement")
+p=A.ay(p,p.gaq().ao("DrivingAdmin")).ai(0,"AdManagement")
 o=A.bL(A.Y(["isCTRAdEnabled",a],t.N,t.X))
 o.toString
 s=2
@@ -38017,7 +38017,7 @@ l=(o==null?$.J=$.ah():o).aa(0,"[DEFAULT]")
 A.a5(l,m,!1)
 m=A.ax(new A.a9(l))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$nv)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$nv)
 case 3:n=c
 q.p3=A.aD(n.b.a4(0,"isCTRAdEnabled"),n.a)
 q.a0()
@@ -38031,7 +38031,7 @@ k=$.b1()
 A.a5(j,k,!1)
 m=A.ax(new A.a9(j))
 s=3
-return A.r(A.ay(m,m.gaq().ao("StocksAdmin")).ai(0,"AdManagement").bo(0),$async$pv)
+return A.r(A.ay(m,m.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").bo(0),$async$pv)
 case 3:n=b
 s=J.a_(n.b.d,"data")!=null?4:6
 break
@@ -38076,7 +38076,7 @@ j=(m==null?$.J=$.ah():m).aa(0,"[DEFAULT]")
 A.a5(j,k,!1)
 k=A.ax(new A.a9(j))
 s=7
-return A.r(A.ay(k,k.gaq().ao("StocksAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isGoogle1Enabled",!1],t.N,t.z)),$async$pv)
+return A.r(A.ay(k,k.gaq().ao("DrivingAdmin")).ai(0,"AdManagement").nI(0,A.Y(["isGoogle1Enabled",!1],t.N,t.z)),$async$pv)
 case 7:q=!0
 s=1
 break
@@ -73608,7 +73608,7 @@ B.fR=new A.pP(2,"disabled")
 B.zO=new A.vN(null,null,null,null,null,null,null,null,null)
 B.fS=new A.pW(0,"documentId")
 B.n7=new A.Ff(1,"low")
-B.zP=new A.q3("AIzaSyBrhGwjOctYLIK_YYZ1t8EqNTurvbLqAJA","1:453709135591:web:c10910016548034093ec42","453709135591","fir-admin-e7ee0","fir-admin-e7ee0.firebaseapp.com",null,"fir-admin-e7ee0.appspot.com",null,null,null,null,null,null,null)
+B.zP=new A.q3("AIzaSyAnGGEJJzG-P2MkbQ8m1ay6w9yQFow8EhQ","1:263342812588:web:1a7fd5e990139ecc461e09","263342812588","driving-licence-apply-on-2c731","driving-licence-apply-on-2c731.firebaseapp.com",null,"driving-licence-apply-on-2c731.appspot.com","G-ELGL40K01B",null,null,null,null,null,null)
 B.r=new A.N(0,0)
 B.zQ=new A.Fk(B.r,B.r)
 B.n8=new A.vV(0,"tight")
