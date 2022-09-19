@@ -3,18 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9c5e22de2b383ab4129c7629071e190b",
+  "assets/AssetManifest.json": "e6dcc71ed91e2256ab0994d57f010a0d",
 "assets/assets/screen1.jpg": "ef8dcdf6194fe7e15baeec36e0e3f63d",
 "assets/assets/screen2.jpg": "fca4fbf2cbca9d21607cedbd3503f980",
 "assets/assets/screen3.jpg": "bfc0df745e7d548ef65b9e22bc081b60",
 "assets/assets/screen4.jpg": "b327391ec06172487e9cd70c64cc2c6a",
-"assets/assets/settings-driving.png": "0f243b31fa3fb7bb336266b672e0d0da",
-"assets/assets/settings.jpg": "9f64a5e63359d39255f900b8a53f2c7b",
-"assets/assets/settings.png": "a946cb7845a604074dd3de47bb25d81d",
-"assets/assets/settings.webp": "1607bfcb8cd29a97e38a593427598898",
+"assets/assets/settings.png": "0f243b31fa3fb7bb336266b672e0d0da",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "a564ece9dd9f5216e196cccc21ad2186",
+"assets/NOTICES": "ce7f8f4f8bda1be0d587356967d9a292",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -28,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ab873a39a38335bfcc6c349448d328c2",
-"/": "ab873a39a38335bfcc6c349448d328c2",
-"main.dart.js": "001f65acf7c7ebea9003649b3d2ce5d4",
+"index.html": "b0a9f75b5fe2bb54a2bfa0a52a590c56",
+"/": "b0a9f75b5fe2bb54a2bfa0a52a590c56",
+"main.dart.js": "23afeba371e83b90ab56bbba6f3e1c7a",
 "manifest.json": "4a45a0e1e4c514b758fabaca20856e74",
 "version.json": "5ce66c0235acac5153e953a9fbb347b4"
 };
